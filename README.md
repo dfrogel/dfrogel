@@ -34,3 +34,4 @@
   
 </div>
 
+![snake gif](https://github.com/dfrogel/dfrogel/blob/output/github-contribution-grid-snake.svg)
