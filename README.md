@@ -5,10 +5,12 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fact: Is it normal to prefer java over python?
 
-## My stateman
+### 📊 GitHub Stats 
 
 ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfrogel&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfrogel)](https://github.com/dfrogel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfrogel&theme=radical)](https://github.com/dfrogel/github-readme-stats)
+
+### 💻 My Linguages
 
 <div style="display: inline_block"><br>          
   <img align="center" alt="Duda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -20,9 +22,9 @@
    <img align="right" alt="Duda-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/129911019/229962280-db0b2942-e96d-45bb-a508-d70714d7b2d0.gif">
 </div>
  
-##
-
 <div> 
+ 
+### 🌐 Social
   
   <a href="https://instagram.com/dfrogel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dudafrogel23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
