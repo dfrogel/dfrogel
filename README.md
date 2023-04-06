@@ -21,7 +21,9 @@
   <img align="center" alt="Duda-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
    <img align="right" alt="Duda-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/129911019/229962280-db0b2942-e96d-45bb-a508-d70714d7b2d0.gif">
 </div>
- 
+
+###
+
 <div> 
  
 ### 🌐 Social
