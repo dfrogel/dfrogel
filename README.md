@@ -8,7 +8,8 @@
 ### 📊 GitHub Stats 
 
 ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfrogel&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfrogel&theme=radical)](https://github.com/dfrogel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfrogel&langs_count=8&theme=radical)](https://github.com/dfrogel/github-readme-stats)
+
 
 ### 💻 My Linguages
 
