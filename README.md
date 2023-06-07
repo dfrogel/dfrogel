@@ -1,4 +1,4 @@
-### Hello peoples 👋
+### Hello world 👋
 
 - 🔭 I’m currently working on Back-end
 - 🌱 I’m currently learning Phyton, Java, Node.js and C++
