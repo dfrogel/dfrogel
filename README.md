@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🔭 I’m currently working on Back-end
-- 🌱 I’m currently learning Phyton, Java, Node.js and C++
+- 🌱 I’m currently learning JavaScript, Java, Python and C++
 - 😄 Pronouns: She/Her
 - ⚡ Fact: Is it normal to prefer java over python?
 
