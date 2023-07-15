@@ -44,7 +44,7 @@
 
 <!-- [x][ ][ ] -->
 <a href="https://github.com/dfrogel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dfrogel&show_icons=true&count_private=true&theme=radical" width="360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dfrogel&show_icons=true&count_private=true&theme=radical" width="330" />
 </a>
 
 <!-- [ ][x][ ] -->
@@ -54,7 +54,7 @@
 
 <!-- [][ ][x] -->
 <a href="https://github.com/dfrogel/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfrogel&theme=radical" alt="duda" width="310"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfrogel&theme=radical" alt="duda" width="330"/>
 </a>
 
 <br> <!-- Espaço vertical -->
