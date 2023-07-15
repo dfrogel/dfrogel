@@ -44,12 +44,12 @@
 
 <!-- [x][ ][ ] -->
 <a href="https://github.com/dfrogel/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dfrogel&show_icons=true&count_private=true&theme=radical" width="360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dfrogel&show_icons=true&count_private=true&theme=radical" width="360" />
 </a>
 
 <!-- [ ][x][ ] -->
 <a href="https://github.com/dfrogel/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfrogel&langs_count=8&theme=radical" width="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfrogel&langs_count=8&theme=radical" width="200" />
 </a>
 
 <!-- [][ ][x] -->
@@ -61,7 +61,7 @@
 
 ### Trophies 🏆
 <!-- Trophies -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dfrogel&theme=radical&row=1&no-bg=true&margin-w=10" width="830" alt="dfrogel" />
   </a>
