@@ -67,6 +67,4 @@
   </a>
 </p>
 
-
-
-![snake gif](https://github.com/dfrogel/dfrogel/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/dfrogel/dfrogel/blob/output/github-contribution-grid-snake.svg) -->
