@@ -14,10 +14,10 @@
 </div>
 
 ### About me 😼
-- Mobile Developer and Web Developer 👩🏻‍💻
-- Bachelor of Technology in Backend Development (3/4) 🎓
-- Learning JavaScript with a focus on React and Node.JS, and most of my developments are with this language and framework too 🤓
-- Interest in **Mobile development** and **Web development** 🥰
+- Web Developer and Software Engineer 👩🏻‍💻
+- Bachelor of Technology in Backend Development 🎓
+- Learning PHP, Python and JS constantly 🤓
+- Interest in **Product Management** and **Web development** 🥰
 - Ask me about anything [here](https://t.me/dfrogel) 🧐
 - Fact: Is it normal to prefer java over python? 😎♨️
 
@@ -67,4 +67,4 @@
   </a>
 </p>
 
-<!-- ![snake gif](https://github.com/dfrogel/dfrogel/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/dfrogel/dfrogel/blob/output/github-contribution-grid-snake.svg)
